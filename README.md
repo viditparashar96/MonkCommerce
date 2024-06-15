@@ -1,6 +1,6 @@
-# Personal Book Shelf
+# Chat Ui with Mobile Responsive like Whatsapp
 
-This repository contains the source code for an Personal Book Shelf developed using React. The App allows users to Add books and find Books based on their search.
+This repository contains the source code for an Chat Ui developed using React. The App allows users to interact with chats
 
 # Setup and Running Instruction
 
